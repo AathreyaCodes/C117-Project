@@ -1,0 +1,23 @@
+body{
+    background-color: #191919;
+}
+
+#score{
+    font-size: large;
+    margin-left: 5px;
+}
+
+#time{
+    font-size: large;
+    float: right;
+    margin-right: 5px;
+}
+
+span{
+    color: white;
+}
+
+#todraw{
+    font-size: larger;
+    color: whitesmoke;
+}
